@@ -26,7 +26,7 @@ The Eclipse IDE is used for openHAB developments. The Eclipse Installer automati
 1. Download the [Eclipse Installer](https://wiki.eclipse.org/Eclipse_Installer)
 2. Launch the Eclipse Installer and switch to "Advanced Mode" in the top right menu:
 ![Step 0](images/ide0.png)
-3. Choose the "Eclipse IDE for Java Developers" and select "Next":
+3. Choose the "Eclipse IDE for Java Developers" and ensure use 'Photon release'(Feb.2019) select "Next":
 ![Step 1](images/ide1.png)
 4. Expand "Github Projects", then "openHAB".
 
